@@ -1,9 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://perrisent.it/</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
+  <url><loc>https://perrisent.it/</loc><lastmod>2026-06-26</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://perrisent.it/attrazioni.html</loc><lastmod>2026-06-26</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://perrisent.it/eventi.html</loc><lastmod>2026-06-26</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://perrisent.it/contatti.html</loc><lastmod>2026-06-26</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://perrisent.it/autoscontro.html</loc><lastmod>2026-06-26</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://perrisent.it/ruota-panoramica.html</loc><lastmod>2026-06-26</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://perrisent.it/derby-day.html</loc><lastmod>2026-06-26</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://perrisent.it/giostra-cavalli.html</loc><lastmod>2026-06-26</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://perrisent.it/calciometro.html</loc><lastmod>2026-06-26</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://perrisent.it/pugnometro.html</loc><lastmod>2026-06-26</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://perrisent.it/tiro-bersaglio.html</loc><lastmod>2026-06-26</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://perrisent.it/tiro-airsoft.html</loc><lastmod>2026-06-26</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://perrisent.it/simulatore-vr.html</loc><lastmod>2026-06-26</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://perrisent.it/jumping.html</loc><lastmod>2026-06-26</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://perrisent.it/trenino.html</loc><lastmod>2026-06-26</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://perrisent.it/mini-seggiolini.html</loc><lastmod>2026-06-26</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://perrisent.it/mini-tazze.html</loc><lastmod>2026-06-26</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://perrisent.it/popcorn-zucchero-filato.html</loc><lastmod>2026-06-26</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 </urlset>

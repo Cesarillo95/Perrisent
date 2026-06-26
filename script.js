@@ -1,1 +1,1 @@
-document.querySelector('.burger')?.addEventListener('click',()=>document.querySelector('.menu').classList.toggle('open'));document.querySelectorAll('a[href^="#"]').forEach(a=>a.addEventListener('click',()=>document.querySelector('.menu')?.classList.remove('open')));
+document.querySelector('.mobile-toggle')?.addEventListener('click',()=>document.querySelector('.menu').classList.toggle('open'));

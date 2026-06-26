@@ -1,1 +1,1 @@
-Sito SEO Perris Ent. - caricare tutti i file nella root del repository GitHub Perrisent e fare Commit changes.
+Perris Entertainment 2.0 - carica tutti i file su GitHub Pages sostituendo quelli presenti.
